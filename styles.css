@@ -1,0 +1,43 @@
+
+
+body {
+ 
+   /* The image used */
+  background: url("https://github.com/navinbarnwal/GoogleFriend/raw/master/img.jpg") !important;
+ width: 100% !important;
+ 	background-repeat:no-repeat !important;
+background-size:cover !important;
+background-position:center !important;
+color: yellow !important;
+}
+#fbar{
+	background-color: transparent !important;
+	border-top : 0px !important;
+}
+
+.b2hzT{
+	border-bottom: 0px !important;
+}
+a {
+	color: white !important;
+}
+.b0KoTc{
+	color: transparent !important;
+}
+.ftl, #footer a {
+	color: transparent !important; 
+}
+#masthead,
+#primary {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  background-color: #fff;
+  padding: 20px !important;
+}
+#masthead {
+  background: none;
+}
+#masthead img, #primary img {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
