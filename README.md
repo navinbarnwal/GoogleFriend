@@ -1,2 +1,6 @@
-# GoogleFriend
-It's a Google Chrome Extension that add's a Background picture to google.com website. Just install this extension. Go to Google.com in Google chrome and see the Magic.
+# It's a Google Chrome Extension that add's a Background picture to google.com.
+
+
+1. Just install this extension. 
+2. Go to Google.com in Google chrome.
+3. See the Magic.

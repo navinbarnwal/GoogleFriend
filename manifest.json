@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Google Friends",
+  "version": "0.1.0",
+  "description": "It adds a background image to google.com page.",
+  "browser_action": {
+		"default_icon": "16icon.png"
+		
+	},
+	"icons": { 
+		"48": "48icon.png",
+		"128": "128icon.png" 
+	},
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.google.com/"]
+  }]
+
+}
